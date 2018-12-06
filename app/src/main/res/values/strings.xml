@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARAI</string>
+    <string name="scan">SCAN</string>
+    <string name="spent">SPENT</string>
+</resources>
